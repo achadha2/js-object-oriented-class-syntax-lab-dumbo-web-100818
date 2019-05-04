@@ -9,14 +9,17 @@ class BoardMember {
     return "No, I must disagree"
   }
   
-  function approve(){
+  approve(){
     return "You can do that!"
   }
   
-  function doCharity(){
+  doCharity(){
     return "I like to help people."
   }
   
+  releasePressStatement(){
+    "You will see great things from Scuber."
+  }
   
   
 }

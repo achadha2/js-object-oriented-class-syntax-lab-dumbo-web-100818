@@ -6,6 +6,16 @@ class BoardMember {
   }
   
   function veto(){
-    return ""
+    return "No, I must disagree"
   }
+  
+  function approve(){
+    return "You can do that!"
+  }
+  
+  function doCharity(){
+    return "I like to help people."
+  }
+  
+  
 }
